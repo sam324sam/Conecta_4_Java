@@ -1,4 +1,4 @@
-# Conecta4Optimizado
+# Conecta 4
 
 **Conecta4Optimizado** es una implementación del clásico juego Conecta 4 desarrollada en Java. Ofrece dos modos de juego: multijugador local (dos jugadores) y un jugador contra la inteligencia artificial.
 
